@@ -8,3 +8,8 @@ fruits_list = ['Apples', 'Banana', 'Lemon', 'Oranges'] >>>>> This is a list
 
 
 if statement:-
+
+Turtle link......
+https://www.youtube.com/redirect?redir_token=QUFFLUhqbXpFZUwwTkxLMF9DaXk0SUhDZEplN2lDMUYzUXxBQ3Jtc0ttbG5hRTZPS254Q240QnRXdVp2TFcwZFRNMXZlLUdiUmhab3pfWEFVNjY0U0xkamdkYVUwb1NFbzlINFZWZkM3QTRq
+
+

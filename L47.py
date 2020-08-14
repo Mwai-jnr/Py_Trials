@@ -29,7 +29,7 @@
 #deduction(500 , 10)
 
 #using return.
-def deduction(pay, nhif):
-    return pay - nhif
+# def deduction(pay, nhif):
+#     return pay - nhif
     
-print(deduction(500 , 10))
+# print(deduction(500 , 10))
