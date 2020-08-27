@@ -28,8 +28,27 @@
     
 #deduction(500 , 10)
 
-#using return.
-# def deduction(pay, nhif):
-#     return pay - nhif
-    
-# print(deduction(500 , 10))
+  # using return.
+  # def deduction(pay, nhif):
+  #     return pay - nhif
+      
+  # print(deduction(500 , 10))
+
+# variable scope. Lesson 52
+#calling a varible outside of a function <!---- third_num---->
+
+# third_num = 3
+# def my_multiplication():  
+#   first_num = 3
+#   second_num = 10  
+#   return first_num * second_num -third_num
+# print( my_multiplication())
+# print(third_num)
+
+#return statements Lesson 53
+
+# def sqr(num):
+  
+#  return num * num
+  
+# print(sqr(3))
